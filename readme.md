@@ -77,6 +77,7 @@ The goal is to provide a comprehensive understanding of global temperature chang
 📌 **Overall Insight:**  
 The data strongly suggests a long-term warming trend, particularly noticeable post-1900. The increase in temperature correlates with human activities, such as industrialization and increased CO₂ emissions, reinforcing concerns about global climate change.  
 
+---
 
 ### 2️⃣ Monthly Temperature Patterns
 ![Monthly Temperature](./plots/temp_range.png)
@@ -100,7 +101,7 @@ The data strongly suggests a long-term warming trend, particularly noticeable po
 - The temperature range is relatively stable throughout the year, with **minor fluctuations and occasional outliers**.  
 - Understanding these variations can be useful for **climate trend analysis, energy consumption forecasting, and agricultural planning**.  
 
-Would you like a month-wise statistical summary or additional visualizations?
+---
 
 ### 3️⃣ Temperature Distribution
 ![Temperature Distribution](./plots/temp_distribution_analysis.png)
@@ -120,6 +121,8 @@ Would you like a month-wise statistical summary or additional visualizations?
 
 📌 **Overall Insight:**  
 The temperature range distribution exhibits clear seasonal variations, with higher ranges in warmer months and lower ranges in colder months. This pattern aligns with expected climatic changes throughout the year.
+
+---
 
 ### 4️⃣ Correlation Analysis
 ![Correlation Heatmap](./plots/correlation_analysis.png)
@@ -142,6 +145,8 @@ The temperature range distribution exhibits clear seasonal variations, with high
 
 📌 **Overall Insight:** The correlation matrix reveals a strong internal consistency between different temperature variables while also showcasing decreasing uncertainty in measurements over time.
 
+---
+
 ### 5️⃣ Uncertainty in Temperature Measurements
 ![Uncertainty Trend](./plots/uncertainity.png)
 ### 📌 **Inference:** 
@@ -159,7 +164,7 @@ The temperature range distribution exhibits clear seasonal variations, with high
 - **Technological advancements and better methodologies** have contributed to **reduced uncertainty** in temperature measurements over time.
 - **Uncertainty remains low in modern data**, increasing the reliability of recent climate assessments.
 
-Would you like a statistical summary or further breakdown of specific periods?
+---
 
 ### 6️⃣ Temperature by Decades
 ![Decadal Temperature Analysis](./plots/summary_stats_decade.png)
