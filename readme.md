@@ -77,7 +77,6 @@ The goal is to provide a comprehensive understanding of global temperature chang
 📌 **Overall Insight:**  
 The data strongly suggests a long-term warming trend, particularly noticeable post-1900. The increase in temperature correlates with human activities, such as industrialization and increased CO₂ emissions, reinforcing concerns about global climate change.  
 
-Would you like me to extract specific trends or fit a regression model for predictions? 🚀
 
 ### 2️⃣ Monthly Temperature Patterns
 ![Monthly Temperature](./plots/temp_range.png)
